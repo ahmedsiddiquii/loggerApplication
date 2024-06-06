@@ -13,4 +13,4 @@ def upload_pdf_report_exec(path, usb_label):
         print('Successfully uploaded the PDF file!')
     else:
         print(f"PDF file upload failed {response.text}")
-upload_pdf_report_exec(r"C:\Users\HP\Downloads\T1.PDF","NOT_VALID")
+upload_pdf_report_exec(r"C:\Users\Carlo\PycharmProjects\loggerApplication\REPORT.PDF","TEST")

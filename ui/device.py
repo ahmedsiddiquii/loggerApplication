@@ -133,9 +133,13 @@ class UI_Device:
         except AttributeError:
             print(f'Cannot close {self.device_port} - port instance is None')
 
+    def write_logs(self,msg):
+        with open("logs.txt","a") as file:
+            file.writelines(msg+"\n")
     def upload_pdf_report_exec(self,path, usb_label):
         response = httpx.post(
             'https://equartz.tech/pdf/upload_pdf.php',
+            #'https://equartz.tech/pdf/upload_pdf.php',
             data={'serial_no': usb_label},
             files={'pdf_file': open(path, 'rb')},
             headers={'User-Agent': 'PostmanRuntime/7.29.10'},
@@ -144,8 +148,10 @@ class UI_Device:
 
         if response.status_code == 200:
             print('Successfully uploaded the PDF file!')
+            self.write_logs('Successfully uploaded the PDF file!')
         else:
             print(f"PDF file upload failed {response.text}")
+            self.write_logs(f"PDF file upload failed {response.text}")
 
     def upload_data_to_server(self,usb_label):
         report = Reports(usb_label)
@@ -178,6 +184,7 @@ class UI_Device:
                 try:
                     Thread(target=self.upload_data_to_server,args=(self.usb_label,)).start()
                 except Exception as e:
+                    self.write_logs(f"Error while uploading data {str(e)}")
                     print("Error while uploading data")
                     print(e)
         except serial.serialutil.SerialException:
