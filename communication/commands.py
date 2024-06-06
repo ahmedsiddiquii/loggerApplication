@@ -1,0 +1,15 @@
+from enum import Enum
+
+
+class Commands:
+    COMMAND_SYNC: int = 0
+    COMMAND_SEND_CONFIG: int = 1
+    COMMAND_SAVE_CONFIG: int = 2
+    COMMAND_SEND_RECORDS: int = 3
+    COMMAND_SEND_METADATA: int = 4
+    COMMAND_SEND_SYSTEM_DATA: int = 5
+    COMMAND_SAVE_CURRENT_TIME: int = 6
+    COMMAND_SAVE_CALIB_COEFFS: int = 7
+    COMMAND_SAVE_DEVICE_SERIAL: int = 8
+    COMMAND_SEND_USB_LABEL: int = 9
+    COMMAND_SEND_TEST_COMMAND: int = 10

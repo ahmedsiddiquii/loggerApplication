@@ -1,0 +1,121 @@
+Terms and conditions of use
+
+User waiver of rights
+
+
+1) Terms and conditions derived from pressing the "ACCEPT" button to read the data. User waiver of rights
+
+By pressing "ACCEPT" to access the temperature data recorded in this device, you expressly authorise the delivery of the data to the web server, which will store all the device's data in the cloud (and will allow for the use of the data and its association with data recorded before in other devices). If the network connection is not available at that time, the delivery will be marked as pending in order to carry it out as soon as possible.
+You expressly authorise the association of the temperature data recorded in this device with the batch number (from the recorder) of this device. You also authorise access to any person with this number to the temperature data recorded in this device through the following web pages: www.gkiberia.com www.kaptar.io
+You also authorise that if a third person signs up as a user on the GreenKeeper Iberia web page or the Kaptar webpage (www.gkiberia.com) and has the batch number of this device, the temperature data recorded in the same device may be associated with the data of other devices whose batch number has been accessed by this third person. 
+Furthermore, you guarantee that you are authorised to access this device (temperature recorder) and you agree not to send the device data to external third parties whose data has been recorded by the device, as well as not to request it from Desarrollos de filtracion de aires SL.
+In addition, you agree not to use the device data in any illegal way or a way that is not unauthorised by the recipient.
+You release Desarrollos de filtracion de aires SL. from any claim arising from the use of the device (temperature recorder) data or from the violation of these Terms and Conditions.
+Desarrollos de filtracion de aires SL.provides the service of reading a device's data or tracking via the web page for free, as part of its thermography business. The company is not, under any circumstances, responsible for the accuracy or the downloading on time of the data from the web.
+Desarrollos de filtracion de aires SL. is not responsible for damages resulting from a delay in the uploading of the data to the cloud or for the absence of said data.
+
+2) Terms and conditions derived from the use of the software
+
+The rights and ownership of any software included with this equipment is the property of the manufacturer (Desarrollos de filtracion de aires SL.) and is not transferable. The customer bears sole responsibility for obtaining the necessary software licenses from the manufacturer or authorised retailer and is responsible for the additional associated costs.
+The customer is responsible for downloading the programme, both for PC and Android.
+The manufacturer is not responsible for any incompatibility between the software and the computer's or mobile phone's operating system or between the software and any other feature of the PC or mobile phone that could prevent the proper downloading of the software and subsequent displaying of the data.
+The manufacturer is also not responsible for the inability to read data once the programme is installed, due to limitations of the features of the mobile device or PC.
+
+3) Limited warranty. Terms and conditions of the warranty
+
+The limited warranty (hereafter "warranty") provided by Desarrollos de filtracion de aires SL. ("Kaptar") regarding the Kaptar System and its components (hereafter "the Product") shall be governed solely and exclusively by the following terms and conditions:
+
+Desarrollos de filtracion de aires SL. guarantees that the product will have to be reasonably free of physical defects related to materials and manufacture for a period of twelve (12) months from the date of the invoice issued by Desarrollos de filtracion de aires SL. to the customer (the "warranty period"). 
+
+If the product or any of its components do not comply with this Warranty, DESARROLLOS DE FILTRACION DE AIRES SL. shall apply one of the following solutions, at the sole discretion of DESARROLLOS DE FILTRACION DE AIRES SL. and regarding the return of the faulty product to the facilities of DESARROLLOS DE FILTRACION DE AIRES SL. at the expense of the customer, within the warranty period:
+(I) to repair or replace the faulty product or component; or
+(II) to refund the customer the price paid for the faulty product or component.
+
+This warranty is solely for the benefit of the customers of DESARROLLOS DE FILTRACION DE AIRES SL. and shall not be extended nor be understood as extending to any other person or entity, including customers of customers or of other final users.
+This warranty is a limited warranty and shall remain at all times the sole and exclusive warranty of the product granted by DESARROLLOS DE FILTRACION DE AIRES SL. Except as expressly established in this warranty, DESARROLLOS DE FILTRACION DE AIRES SL. does not adopt nor accept any other explicit or implicit warranty of the product, including, without limitation, any other commercial or suitability guarantee for a particular purpose.
+The repair, replacement or refund of the product (or any of its components) as provided beforehand, constitute the complete and final fulfilment of all the obligations of DESARROLLOS DE FILTRACION DE AIRES SL. under this warranty.
+
+4) Terms and conditions derived from the nature of the electronic devices and the dependency of the use of communication systems of third parties (access and proper function of the internet). User waiver of rights
+Due to the nature of the electronic devices and the use of the communication systems of third parties, DESARROLLOS DE FILTRACION DE AIRES SL. cannot and does not guarantee, expressly or implicitly, that the product will be at any time free of errors or that the data can be downloaded to a PC or Android device and sent correctly to the cloud (with accuracy of data - dates among others). Errors while downloading the data, when sending it to the network system or to the device itself, can include, among other things:
+(I) the failure of the device's USB connection, as it can be defective, due to damage, or becoming damaged when plugging to the PC's USB reader or the mini-USB adaptor used for plugging it to the Android mobile device; or the failure of the device's USB connection due to it being disabled;
+(II) the lack of recorder data;
+(III) failure when displaying or transferring incomplete data;
+(IV) lack of power;
+(V) mobile connection loss;
+(VI) from storage of server errors; or
+(VII) interruptions related to the internet.
+(VIII) the mobile phone can have the USB connection in a place not directly accessible to the KAPTAR programme; or it is possible as well that the place where the mobile phone has the USB connection cannot be reached when accessing from the KAPTAR programme.
+(IX)The PC or mobile device can have the USB receptor damaged or it could be incompatible with the device's USB.
+(X)The mobile phone needs an Android system, but it is possible that the system is outdated and not compatible with the device; the operating system of the PC must be Windows, with any other operating system being excluded. Any other outdated version of Android or Windows or later than December 2014 might be incompatible with the device.
+
+ KAPTAR is a tool developed to improve tracking and management of the logistics of the cold supply chain. However, use of the Product is at the customer's own risk. DESARROLLOS DE FILTRACION DE AIRES SL. cannot guarantee and does not guarantee or make any representations regarding the benefits or savings that can be obtained from any customer's use, in particular, of:
+(I) the product,
+(II) any of its components, features or applications,
+(III) the "real time" alerts, or
+(IV) the information or data provided by the product in terms of correctness, accuracy, completeness, updating of contents, reliability or in any other way.
+
+DESARROLLOS DE FILTRACION DE AIRES SL. cannot assume responsibility and shall not, under any circumstances, be held responsible for the indirect, incidental, special or consequential damages or losses caused by or related to the product or its use (including, without limitation, the goods or products damaged, losses of information, loss of savings, loss of earnings or business interruption), even if DESARROLLOS DE FILTRACION DE AIRES SL. is aware or should be aware of the possibility of such damage or loss.
+Under no circumstances shall DESARROLLOS DE FILTRACION DE AIRES SL. be responsible for direct or indirect damages, in excess of the amount paid by the customer regarding the order of the applicable product. 
+For the avoidance of doubt, the customer assumes the risk and shall be solely responsible for assessing, analysing and using the data provided by the product. DESARROLLOS DE FILTRACION DE AIRES SL. shall not be responsible for any loss, damage or harm suffered by the customer or by third parties, whether by contract or tort, due to the customer using the data provided by the product.
+In addition, DESARROLLOS DE FILTRACION DE AIRES SL. does not assume any responsibility and no warranty shall be applied to any kind of failure or problem regarding the product caused by:
+(I) the use or inappropriate use, whether by means of acts, omissions, negligence, error or accident;
+(II) handling, changes, variations or modifications carried out by other parties other than DESARROLLOS DE FILTRACION DE AIRES SL.;
+(III) inappropriate handling, storage, application, installation or maintenance by any person or entity other than DESARROLLOS DE FILTRACION DE AIRES SL.;
+(IV) extreme operational conditions;
+(V) unusual environmental conditions;
+(VI) accidental or intended damage caused by any person other than DESARROLLOS DE FILTRACION DE AIRES SL.; or
+(VII) Events of force majeure
+The validity, performance and construction of this Warranty shall be governed and interpreted according to Spanish law.
+Any claim or dispute regarding the warranty shall be subject to the exclusive jurisdiction of the courts of Bilbao (Spain), excluding any other jurisdiction
+
+5) Terms and conditions of the DESARROLLOS DE FILTRACION DE AIRES SL. website (www.KAPTAR.com) and statement of commitment of DESARROLLOS DE FILTRACION DE AIRES SL. on the privacy of their website users.
+
+5.1 Terms and conditions of the DESARROLLOS DE FILTRACION DE AIRES SL. website (www.gkiberia.com and www.KAPTAR.io)
+	5.1.1.Copyright
+The copyright of this publication is owned by DESARROLLOS DE FILTRACION DE AIRES SL.
+5.1.2.Authorisation for Reproduction 
+Any person can reproduce any part of the material of these websites subject to the following conditions:
+- The material can only be used for informative or non-commercial purposes
+- The material cannot be modified in any way
+5.1.3. Comments
+DESARROLLOS DE FILTRACION DE AIRES SL. thanks you for your suggestions and comments, but will not be able to answer all the comments individually. DESARROLLOS DE FILTRACION DE AIRES SL. will be able to use any information sent by you and act accordingly.
+5.1.4. Use of interactive features on this website
+For your convenience, DESARROLLOS DE FILTRACION DE AIRES SL. will be able to offer interactive features on this website, such as access to tracking and user comments. You are authorised to use these features only for specific purposes and for no other end.
+5.1.5 Correction of this website
+This website may contain mistakes or typos that have gone unnoticed. These mistakes will be corrected by DESARROLLOS DE FILTRACION DE AIRES SL. when they are identified. The information on this website is updated regularly but mistakes may remain or appear when changes are made during the updates. 
+5.1.6 Virus
+ARCTIC, SEA, S.L. will make all reasonable efforts to exclude viruses from this website, but cannot ensure total exclusion and will not accept legal responsibility for those viruses. You must take appropriate measures before downloading information from this website.
+5.1.7 Disclaimer of Liability
+The services, content and information on this website are provided on a hypothetical "as if" basis. DESARROLLOS DE FILTRACION DE AIRES SL. will decline, to the extent permitted by law, all express, tacit, statutory or any other kind of responsibilities, including but not limited to, the implicit commercial guarantees, non infringement by third parties and fitness for a particular purpose. DESARROLLOS DE FILTRACION DE AIRES SL. and its affiliates and licensees do not represent or are responsible for the correction, level of completion, security or adaptation of the services, content or information provided on the DESARROLLOS DE FILTRACION DE AIRES SL. website (www.KAPTAR.io; www.gkiberia.com) or their systems. No information obtained through the systems or the website of DESARROLLOS DE FILTRACION DE AIRES SL. (www.KAPTAR.com; www.gkiberia.com) will generate a responsibility that is not explicitly expressed by DESARROLLOS DE FILTRACION DE AIRES SL. in these terms and conditions.
+Some jurisdictions do not allow implicit limitations of responsibility. This is why the limitations and exclusions in this section might not apply to your case if you are a customer. These provisions will not affect your statutory rights which, if they exist, you cannot renounce. You agree and acknowledge that the limitations and exclusions of responsibility as well as the guarantees expressed in these terms and conditions are fair and reasonable.
+5.1.8. Limitation of responsibility
+To the extent permitted by law, DESARROLLOS DE FILTRACION DE AIRES SL. or its affiliates, licensees or third parties mentioned on the DESARROLLOS DE FILTRACION DE AIRES SL. website shall not be responsible, under any circumstances, for any incidental, indirect, exemplary, punitive or consequential loss of earnings or damages caused by loss of information, or interruption of the service due to the use or incapacity to use the DESARROLLOS DE FILTRACION DE AIRES SL. website and any system, service, content or information whether in guarantee, contract, tort, offence or any other legal theory, even in the event that DESARROLLOS DE FILTRACION DE AIRES SL. has been advised on the possibility of that damage. Without limiting the foregoing, and to the extent permitted by law, you state to agree that, under no circumstance, the responsibility of DESARROLLOS DE FILTRACION DE AIRES SL. for any damage (direct or not) or loss, regardless of the type of action or claim, whether it is part of a contract, tort or otherwise, shall exceed €100.00 (one hundred Euros). As long as it is permitted by law, the solutions established by you in these terms and conditions are exclusive and are limited to those expressly provided by these terms and conditions.
+5.1.9. Disclosure of information
+All the information given to DESARROLLOS DE FILTRACION DE AIRES SL. by the visitors of this website (www.KAPTAR.com; www.gkiberia.com) will be considered confidential and will not be disclosed by DESARROLLOS DE FILTRACION DE AIRES SL. to any third party, except if required for the provision of the services.
+5.2 Privacy
+	5.2.1. Personal information
+Personal information is considered to be specific information regarding the individual characteristics of a person. This includes their full name, address, telephone number and date of birth. Information that is not directly linked with the real identity (such as website bookmarks or the number of users of a certain website) will not be considered personal information.
+5.2.2. Collection and Processing of Personal information
+DESARROLLOS DE FILTRACION DE AIRES SL. safeguards the preservation of the privacy of its website users. When you visit our websites, temporarily and for security reasons, our servers always save the connection data from your computer, the list with the web pages you have visited on our website, the date and duration of your visit, the identification data of your browser and operating system, as well as the web through which you connected to our website.  Other private information, such as name, address, telephone number or e-mail address, are not collected, unless you give them to us voluntarily e.g. when filling out an on-line contact form, signing up to a survey or competition, or when completing a contract or a request for information.
+Certain sections of the DESARROLLOS DE FILTRACION DE AIRES SL. website (www.KAPTAR.com; www.gkiberia.com), require you to sign up for beforehand or have a password to access them. The information obtained in this way can be used by DESARROLLOS DE FILTRACION DE AIRES SL. for commercial purposes, always within the context of the laws of the country. DESARROLLOS DE FILTRACION DE AIRES SL. guarantees the right of access and correction of personal information according to the laws currently in force.
+5.2.3.  Use and Transfer of personal information
+In DESARROLLOS DE FILTRACION DE AIRES SL. we use the information provided by you exclusively for the technical management of the websites and to answer your applications, mainly to fulfil the contract signed with you or to answer to your requests. In return, with this information we can improve the service we offer you as we can simplify and personalise the contents and services on our website.
+Only when it has been previously authorised by you or if it is legally established or you have stated that you do not have any objections, will we use your personal information for specific surveys about products with commercial purposes.
+DESARROLLOS DE FILTRACION DE AIRES SL. does not transmit, sell, transfer or disclose your personal information to third parties (and neither will do it in the future), except in the following cases: if it is required by law, if it is necessary due to the contract, or if you have given your explicit consent to do so.
+5.2.4 Use of tracking on the website
+We can use tracking software to determine how many users are visiting our website and the frequency of those visits. We do not use this software to collect personal information or individual IP addresses. This information is used exclusively in an anonymous way and summarised for statistical purposes and to improve the website.
+5.2.5 Security
+DESARROLLOS DE FILTRACION DE AIRES SL. takes all security, technical and organisational measures necessary to protect your personal information against loss or abuse. 
+If you wish to contact DESARROLLOS DE FILTRACION DE AIRES SL. by e-mail, please bear in mind that we cannot guarantee the confidentiality of the information sent. The content of the e-mail messages can be read by third parties. Therefore, we recommend that you send us confidential information only by post.
+5.2.6. Right to information
+Upon written request, we will inform you about your personal information (e.g. name, address) that we have stored.
+5.2.7. Modifications in the Data Protection Statement
+Our private data protection statement will be subject to continual review.
+DESARROLLOS DE FILTRACION DE AIRES SL. reserves the right to modify its data protection statement at any time with or without prior notice. Please check this website frequently to keep updated of any changes. Through active use of the DESARROLLOS DE FILTRACION DE AIRES SL. websites (www.KAPTAR.com; www.gkiberia.com) you confirm that you agree with the privacy policy.
+This statement was last updated on: 26 March 2015
+
+The validity, performance and construction of these terms and conditions of use shall be governed and interpreted according to Spanish law.
+Any claim or dispute regarding the terms and conditions shall be subject to the exclusive jurisdiction of the courts of Madrid (Spain), excluding any other jurisdiction
+
+The Terms and General Conditions of the website
+I have read and I accept the terms and conditions of use
